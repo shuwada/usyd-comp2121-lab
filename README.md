@@ -1,4 +1,4 @@
-U. of Sydney COMP2121: Cloud Computing Hans-On
+U. of Sydney COMP2121: Cloud Computing Hands-On
 =================================
 
 I'm regularly invited to provide guest lectures on cloud computing at
